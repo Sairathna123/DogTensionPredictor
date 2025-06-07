@@ -8,10 +8,10 @@ import mediapipe as mp
 import pickle
 
 # Load model and label encoder
-with open("../model/model.pkl", "rb") as f:
+with open("model/model.pkl", "rb") as f:
     clf = pickle.load(f)
 
-with open("../model/encoder.pkl", "rb") as f:
+with open("model/encoder.pkl", "rb") as f:
     le = pickle.load(f)
 
 
