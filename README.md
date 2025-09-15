@@ -1,6 +1,6 @@
 # Waggle - DogTensionPredictor
 
-Waggle - DogTensionPredictor is a video-based machine learning application that detects and classifies a dog's emotional state friendly, nervous, or aggressive—based on body posture extracted using MediaPipe. It allows users to upload short dog videos and leverages pose keypoint analysis and a trained classifier to assess the dog's mood. The app provides real-time predictions and visual summaries, making it useful for behavioral monitoring, training, and welfare assessment by pet owners, researchers, and animal care professionals.
+Waggle - DogTensionPredictor is a video-based machine learning application that detects and classifies a dog's emotional state friendly, nervous, or aggressive based on body posture extracted using MediaPipe. It allows users to upload short dog videos and leverages pose keypoint analysis and a trained classifier to assess the dog's mood. The app provides real-time predictions and visual summaries, making it useful for behavioral monitoring, training, and welfare assessment by pet owners, researchers, and animal care professionals.
 
 **How It Works**
 
